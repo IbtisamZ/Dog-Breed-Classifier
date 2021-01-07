@@ -9,5 +9,6 @@ In this project, Convolutional Neural Networks (CNN) will be used to build a pip
 
 ### Results
 
-![](samples/one.jpg)
-![](samples/two.jpg)
+![](samples/one.png)
+
+![](samples/two.png)
